@@ -12,4 +12,4 @@ This program involves the basic concepts like variables, data types, array, loop
 
 2. Declare character array of all the capital letters, small letters, numbers, special characters.
 
-3. Now according to the random number generated, respective if-else gets executed and random number gets generated.
+3. Now according to the random number generated, respective if-else gets executed and random password gets generated.
